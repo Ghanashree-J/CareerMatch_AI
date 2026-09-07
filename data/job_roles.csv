@@ -1,0 +1,12 @@
+role,skills,description,category
+Data Scientist,"Python, SQL, Statistics, Machine Learning, Pandas, Data Analysis, TensorFlow","Analyze data and build machine learning models.","Data and AI"
+Data Analyst,"Python, SQL, Excel, Data Analysis, Power BI, Tableau, Statistics, Data Visualization","Analyze data and generate useful business insights.","Data and AI"
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Algorithms, Model Deployment","Build and deploy machine learning applications.","Data and AI"
+Data Engineer,"Python, SQL, ETL, Data Pipelines, Apache Spark, Data Warehousing, Cloud, Automation","Build and manage data pipelines and data systems.","Data and AI"
+Backend Developer,"Python, Java, SQL, APIs, REST, Databases, Git, Django, Flask","Build server-side applications and APIs.","Software Development"
+Frontend Developer,"JavaScript, HTML, CSS, React, TypeScript, Responsive Design, Git","Build interactive website user interfaces.","Software Development"
+Full Stack Developer,"JavaScript, HTML, CSS, React, Node.js, Python, SQL, APIs, Git","Build both frontend and backend applications.","Software Development"
+DevOps Engineer,"Linux, Docker, Kubernetes, CI/CD, AWS, Cloud, Automation, Terraform","Automate software deployment and manage infrastructure.","Cloud and DevOps"
+Cloud Engineer,"AWS, Azure, Cloud, Linux, Networking, Docker, Kubernetes, Terraform","Build and manage cloud infrastructure.","Cloud and DevOps"
+Cybersecurity Analyst,"Networking, Linux, Security, Python, Firewalls, Penetration Testing, Risk Assessment","Protect systems and networks from security threats.","Cybersecurity"
+QA Automation Engineer,"Python, Selenium, Test Automation, CI/CD, API Testing, Git, Quality Assurance","Create automated tests to improve software quality.","Software Development"
